@@ -7,16 +7,16 @@ Students are required to create at least a three (3) page website based on the H
 
 # REQUIREMENTS
 
-- MMED 1050 - ORIGINAL PHOTOGRAPHY
+- MMED 1050 - ORIGINAL PHOTOGRAPHY | 
 10 original photos with Photoshop adjustments to enhance color and composition using class exercise techniques.
 
-- MMED 1052 -  WEBSITE LAYOUT
+- MMED 1052 -  WEBSITE LAYOUT | 
 Create at least 3 Web Pages, 1 of the pages must be a contact page with a form. All pages must make use of valid, semantic HTML 5 tagging. Each page must also contain a properly formatted Document Outline. All pages must link to a single, valid CSS file that leverages flexbox for layout. All images must be properly compressed and scaled for web layout.
 
-- MMED 1051/1053 - AESTHETIC AND DESIGN
+- MMED 1051/1053 - AESTHETIC AND DESIGN | 
 Students are required to design the portfolio website from sketch to completed, working, live website. The direction of the design of this website will be up to the individual creating it. For FIP you will be designing all pages of the website before you build the website with HTML, CSS. Create a style guide for their personal brand. 
 
-- MMED 1054 - WORKFLOW
+- MMED 1054 - WORKFLOW | 
 Students are required to use the workflow tools as outlined in class. Specifically, use the Terminal, Git and Github to build out your finished project. Use branching per feature (you could consider creating a branch per page, as an example) and create well-write README file. Do commits and pull requests regardless of whether you’re working with a partner or alone.
 
 ========================================================================
